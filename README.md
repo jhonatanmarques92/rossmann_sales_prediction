@@ -48,7 +48,7 @@ Para solucionar o problema, foi utilizado o CRISP-DS, uma metodologia cíclica p
 - **Coleta dos dados:** Coleta de dados através da competição o Kaggle.  
 - **Limpeza dos dados:** Verificar inconsistência nos dados e derivá-los para o levantamento das hipóteses.  
 - **Exploração dos dados:** Análise dos dados, procurando insights e entender melhor o impacto de cada variável no modelo.  
-- **Modelagem dos dados:** Selecionar e preparar as variáveis para o treinamento dos modelos.  
+- **Modelagem dos dados:** Selecionar, separar os dados e preparar as variáveis para o treinamento dos modelos.  
 - **Algorítmos de Machine Learning:** Treinamento dos modelos escolhidos.  
 - **Avaliação do algorítmo:** Avaliação do impacto no negócio do melhor modelo selecionado.  
 - **Modelo em produção:** Entrega do modelo em produção, para o acesso e uso de outras pessoas.  
@@ -105,4 +105,7 @@ No cenário do negócio, com os dados de teste, o modelo obteve o seguinte resul
 Gráfico comparando os valores de venda real dos dados de teste e as predições
 <p align="center"><img src="https://github.com/jhonatanmarques92/rossmann_sales_prediction/blob/main/img/vendas-predicoes.png" width="650" height="600"></p>  
 
-## 
+## Modelo em produção
+Foi criado um bot no telegram, onde digitando o número da loja, o bot retorna com o valor predito.  
+O bot foi desenvolvido em Python e está hospedado no Heroku.
+<p align="center"><img src="https://github.com/jhonatanmarques92/rossmann_sales_prediction/blob/main/img/bot_telegram.gif" width="400" height="800"></p> 
