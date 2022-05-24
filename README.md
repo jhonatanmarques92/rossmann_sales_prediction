@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-linkedin-blue?logo=linkedin&link=https://www.linkedin.com/in/jhonatanmarques/)](https://www.linkedin.com/in/jhonatanmarques/)
 
-# Projeto de predição de vendas das lojas Rossmann
+# Projeto de previsão de vendas das lojas Rossmann
 <p align="center"><img src="https://github.com/jhonatanmarques92/rossmann_sales_prediction/blob/main/img/rossmann.png" width="650" height="280"></p>
 
 ### Observação: O contexto do problema de negócio não é real
