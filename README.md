@@ -44,16 +44,15 @@ Os dados foram coletados de um competição do Kaggle: https://www.kaggle.com/co
 ## Estratégia de solução
 Para solucionar o problema, foi utilizado o CRISP-DS, uma metodologia cíclica para o andamento de cada etapa do desenvolvimento do projeto.  
 <p align="center"><img src="https://github.com/jhonatanmarques92/rossmann_sales_prediction/blob/main/img/crisp-ds.png" width="650" height="400"></p>  
-
-- **Questão de negócio:** Recebimento do problema de negócio.  
-- **Entendimento do negócio:** Fazer o levantamento quanto a motivação, problema raíz, dono do problema e o formato da solução.  
+  
+- **Questão e entendimento do negócio:** Recebimento do problema de negócio e fazer o levantamento quanto a motivação, problema raíz, dono do problema e o formato da solução.  
 - **Coleta dos dados:** Coleta de dados através da competição o Kaggle.  
 - **Limpeza dos dados:** Verificar inconsistência nos dados e derivá-los para o levantamento das hipóteses.  
 - **Exploração dos dados:** Análise dos dados, procurando insights e entender melhor o impacto de cada variável no modelo.  
 - **Modelagem dos dados:** Selecionar, separar os dados e preparar as variáveis para o treinamento dos modelos.  
 - **Algorítmos de Machine Learning:** Treinamento dos modelos escolhidos.  
 - **Avaliação do algorítmo:** Avaliação do impacto no negócio do melhor modelo selecionado.  
-- **Modelo em produção:** Entrega do modelo em produção, para o acesso e uso de outras pessoas.  
+- **Modelo em produção:** Entrega de um bot no Telegram, para o acesso e uso de outras pessoas.  
 
 ## Insights dos dados
 Foram levantadas algumas hipóteses, das quais, duas foram mais impactantes.  
