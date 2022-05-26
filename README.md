@@ -99,9 +99,9 @@ XGBost Regressor|	652.35|	9.74|	935.34
 No cenário do negócio, com os dados de teste, o modelo obteve o seguinte resultado
 |cenario|	valores|
 |----------|------|
-|predictions|	R$ 288,081,024.00
-|melhor_cenario|	R$ 288,812,366.33
-|pior_cenario|	R$ 287,349,646.59
+|predictions|	$ 288,081,024.00
+|melhor_cenario|	$ 288,812,366.33
+|pior_cenario|	$ 287,349,646.59
 
 Gráfico comparando os valores de venda real dos dados de teste e as predições
 <p align="center"><img src="https://github.com/jhonatanmarques92/rossmann_sales_prediction/blob/main/img/vendas-predicoes.png" width="650" height="600"></p>  
