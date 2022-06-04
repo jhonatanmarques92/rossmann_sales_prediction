@@ -50,8 +50,8 @@ Para solucionar o problema, foi utilizado o CRISP-DS, uma metodologia cíclica p
 - **Limpeza dos dados:** Verificar inconsistência nos dados e derivá-los para o levantamento das hipóteses.  
 - **Exploração dos dados:** Análise dos dados, procurando insights e entender melhor o impacto de cada variável no modelo.  
 - **Modelagem dos dados:** Selecionar, separar os dados e preparar as variáveis para o treinamento dos modelos.  
-- **Algorítmos de Machine Learning:** Treinamento dos modelos escolhidos.  
-- **Avaliação do algorítmo:** Avaliação do impacto no negócio do melhor modelo selecionado.  
+- **Algoritmos de Machine Learning:** Treinamento dos modelos escolhidos.  
+- **Avaliação do algoritmo:** Avaliação do impacto no negócio do melhor modelo selecionado.  
 - **Modelo em produção:** Entrega de um bot no Telegram, para o acesso e uso de outras pessoas.  
 
 ## Insights dos dados
